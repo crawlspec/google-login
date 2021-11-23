@@ -1,0 +1,27 @@
+{
+  "name": "google-login",
+  "version": "1.0.0",
+  "description": "Automate Google login",
+  "main": "puppeteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crawlspec/google-login.git"
+  },
+  "keywords": [
+    "Automate",
+    "Google",
+    "login"
+  ],
+  "author": "Kenneth Chan <kicktheken@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crawlspec/google-login/issues"
+  },
+  "homepage": "https://github.com/crawlspec/google-login#readme",
+  "dependencies": {
+    "puppeteer-core": "^11.0.0"
+  }
+}

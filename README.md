@@ -8,7 +8,8 @@ Source code in [puppeteer.js](https://github.com/crawlspec/google-login/blob/mai
 
 #### Usage
 
-* Note, you'll need to input your recovery phone number on first usage to reply the message for Two-factor authentication but not for subsequent usage
+* You'll need to input your recovery phone number on first usage to reply the message for Two-factor authentication but not for subsequent usage
+* This service is limited to 10 sessions a day. For further use, please contact hello@wirlds.com to increase the limit.
 
 ```
 npm install
